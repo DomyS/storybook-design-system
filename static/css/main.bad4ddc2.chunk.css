@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'Arizona Serif';
+  src: url(../../static/media/ABCArizonaSerif-Light.4f04b712.ttf) format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arizona Serif';
+  src: url(../../static/media/ArizonaSerif-Light.39753c8b.woff) format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arizona Serif';
+  src: url(../../static/media/ArizonaSerif-Light.0265f62f.woff2) format('woff2');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arizona Text';
+  src: url(../../static/media/ArizonaText-Light.51111a62.ttf) format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arizona Text';
+  src: url(../../static/media/ArizonaText-Light.2ce51be8.woff) format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arizona Text';
+  src: url(../../static/media/ArizonaText-Light.8a7f8529.woff2) format('woff2');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arizona Text';
+  src: url(../../static/media/ArizonaText-LightItalic.183530e2.ttf) format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Arizona Text';
+  src: url(../../static/media/ArizonaText-LightItalic.14fcd2c3.woff) format('woff');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Arizona Text';
+  src: url(../../static/media/ArizonaText-LightItalic.9f77fbc4.woff2) format('woff2');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url(../../static/media/DMMono-Light.2cf6d0b2.ttf) format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url(../../static/media/DMMono-Light.17b183c8.woff) format('woff');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url(../../static/media/DMMono-Light.e93bb2f4.woff2) format('woff2');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url(../../static/media/DMMono-LightItalic.0e20bf04.ttf) format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url(../../static/media/DMMono-LightItalic.46d026b2.woff) format('woff');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url(../../static/media/DMMono-LightItalic.5b6de543.woff2) format('woff2');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DM Mono';
+  src: url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap')
+    format('woff2');
+  font-style: italic;
+}
+
+
+/*# sourceMappingURL=main.bad4ddc2.chunk.css.map*/
